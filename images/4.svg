@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1142px" height="611px" viewBox="0 0 1142 611" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>mamma</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-40.8%" y="-22.1%" width="181.7%" height="144.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="-7" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="26" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <text id="text-2" font-family="Pacifico" font-size="190" font-weight="normal" letter-spacing="1.96004">
+            <tspan x="401.190232" y="426">Mamma</tspan>
+        </text>
+        <filter x="-9.4%" y="-14.7%" width="122.4%" height="133.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="6" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="18.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.828011775   0 0 0 0 0.828011775   0 0 0 0 0.828011775  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mamma" transform="translate(55.000000, 47.000000)">
+            <g id="ice-cream-2" filter="url(#filter-1)" stroke-width="1" fill-rule="evenodd">
+                <path d="M199.556,106.84 C234.869,45.416 161.518,35.294 149.037,3.497 C148.241,1.468 145.973,0.444 143.972,1.307 C130.689,7.038 87.792,28.114 83.174,63 L83.174,132.877 L195.015,132.877 L199.556,106.84 Z" id="Path" fill="#FCB6BE" fill-rule="nonzero"></path>
+                <path d="M95.359,94.49 C97.706,57.545 129.777,29.089 154.476,12.494 C152.166,9.664 150.291,6.692 149.039,3.499 C148.243,1.47 145.975,0.446 143.974,1.309 C130.691,7.04 87.794,28.115 83.176,63.002 L83.176,132.879 L97.982,132.879 L95.359,94.49 Z" id="Path" fill="#EB98A3" fill-rule="nonzero"></path>
+                <path d="M245.289,198.359 C267.939,138.164 230.948,101.174 148.512,100.117 C116.789,99.71 96.334,83.183 83.174,63.003 C83.174,63.003 27.839,96.769 48.543,149.172 L48.543,215.315 L215.095,215.315 L245.289,198.359 Z" id="Path" fill="#FDD9CF" fill-rule="nonzero"></path>
+                <g id="Group" transform="translate(7.000000, 63.000000)" fill="#FCB6BE" fill-rule="nonzero">
+                    <path d="M58.275,152.316 L58.275,105.234 C40.075,59.168 77.626,26.774 90.584,17.295 C85.007,12.125 80.241,6.239 76.174,0.003 C76.174,0.003 20.839,33.768 41.543,86.172 L41.543,152.316 L58.275,152.316 L58.275,152.316 Z" id="Path"></path>
+                    <path d="M250.988,195.214 C274.678,151.258 234.516,105.813 132,119.552 C84.825,125.874 56.858,102.237 41.543,86.172 C41.543,86.172 -27.767,131.369 13.012,195.215 L132,214.237 L250.988,195.214 Z" id="Path"></path>
+                </g>
+                <path d="M50.918,258.214 C23.495,215.279 45.857,180.778 63.447,162.784 C57.52,158.178 52.586,153.412 48.543,149.171 C48.543,149.171 -20.767,194.368 20.012,258.214 L139,277.237 L154.453,274.767 L50.918,258.214 Z" id="Path" fill="#EB98A3" fill-rule="nonzero"></path>
+                <path d="M139,400.885 L67.571,419.907 L74.692,492.963 C75.799,504.33 85.355,513 96.777,513 L181.224,513 C192.645,513 202.201,504.33 203.309,492.963 L210.43,419.907 L139,400.885 Z" id="Path" fill="#FAC5AA" fill-rule="nonzero"></path>
+                <path d="M105.598,492.964 L98.477,419.908 L154.453,405 L139,400.884 L67.571,419.906 L74.692,492.962 C75.8,504.33 85.356,513 96.777,513 L127.682,513 C116.261,513 106.705,504.331 105.598,492.964 Z" id="Path" fill="#E2B195" fill-rule="nonzero"></path>
+                <path d="M210.429,381.862 C262.93,359.669 257.988,296.259 257.988,296.259 L139,277.237 L20.012,296.259 C20.012,296.259 15.07,359.669 67.571,381.862 L139,400.884 L210.429,381.862 Z" id="Path" fill="#FAC5AA" fill-rule="nonzero"></path>
+                <g id="Group" transform="translate(0.000000, 258.000000)" fill="#E2B195" fill-rule="nonzero">
+                    <path d="M98.477,123.862 C45.976,101.669 50.918,38.26 50.918,38.26 L154.453,21.707 L139,19.236 L20.012,38.258 C20.012,38.258 15.07,101.667 67.571,123.86 L139,142.884 L154.453,138.768 L98.477,123.862 Z" id="Path"></path>
+                    <path d="M257.988,0.214 L20.012,0.214 C9.506,0.214 0.99,8.731 0.99,19.236 C0.99,29.742 9.507,38.258 20.012,38.258 L257.988,38.258 C268.494,38.258 277.01,29.741 277.01,19.236 C277.01,8.731 268.494,0.214 257.988,0.214 Z" id="Path"></path>
+                </g>
+                <path d="M31.895,277.237 C31.895,266.731 40.412,258.214 50.917,258.214 L20.012,258.214 C9.506,258.214 0.99,266.732 0.99,277.237 C0.99,287.743 9.507,296.259 20.012,296.259 L50.917,296.259 C40.412,296.26 31.895,287.743 31.895,277.237 Z" id="Path" fill="#D1A084" fill-rule="nonzero"></path>
+                <path d="M210.429,381.862 L67.572,381.862 C57.066,381.862 48.55,390.379 48.55,400.884 C48.55,411.39 57.066,419.906 67.572,419.906 L210.429,419.906 C220.935,419.906 229.451,411.389 229.451,400.884 C229.451,390.379 220.935,381.862 210.429,381.862 Z" id="Path" fill="#E2B195" fill-rule="nonzero"></path>
+                <path d="M79.455,400.885 C79.455,390.379 87.972,381.862 98.477,381.862 L67.572,381.862 C57.066,381.862 48.55,390.38 48.55,400.885 C48.55,411.391 57.066,419.907 67.572,419.907 L98.477,419.907 C87.971,419.907 79.455,411.391 79.455,400.885 Z" id="Path" fill="#D1A084" fill-rule="nonzero"></path>
+                <g id="Group" transform="translate(75.000000, 316.000000)" fill="#3B484A" fill-rule="nonzero">
+                    <path d="M8.691,26.267 C4.424,26.267 0.965,22.808 0.965,18.541 L0.965,8.531 C0.965,4.264 4.424,0.805 8.691,0.805 C12.958,0.805 16.417,4.264 16.417,8.531 L16.417,18.541 C16.417,22.807 12.958,26.267 8.691,26.267 Z" id="Path"></path>
+                    <path d="M119.31,26.267 C115.043,26.267 111.584,22.808 111.584,18.541 L111.584,8.531 C111.584,4.264 115.043,0.805 119.31,0.805 C123.577,0.805 127.036,4.264 127.036,8.531 L127.036,18.541 C127.036,22.807 123.577,26.267 119.31,26.267 Z" id="Path"></path>
+                    <path d="M64,33.664 C55.233,33.664 47,29.997 41.41,23.601 C38.602,20.388 38.929,15.507 42.142,12.699 C45.355,9.891 50.235,10.218 53.044,13.431 C55.699,16.468 59.692,18.21 63.999,18.21 C68.306,18.21 72.299,16.468 74.954,13.431 C77.762,10.218 82.643,9.89 85.856,12.699 C89.069,15.507 89.397,20.388 86.588,23.601 C81,29.997 72.767,33.664 64,33.664 Z" id="Path"></path>
+                </g>
+            </g>
+            <g id="Mamma" fill="#000000">
+                <use fill-opacity="1" filter="url(#filter-3)" xlink:href="#text-2"></use>
+                <use fill-rule="evenodd" xlink:href="#text-2"></use>
+                <use fill-opacity="1" xlink:href="#text-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>
